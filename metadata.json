@@ -1,0 +1,6 @@
+{
+  "name": "Upper Limb Anatomy — Module 101 MCQ Bank & Exam Simulator",
+  "description": "Comprehensive Upper Limb Anatomy MCQ Bank with 33 separated chapters, detailed explanations, mistake review, 60-minute 60-question exam simulator, and performance analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
